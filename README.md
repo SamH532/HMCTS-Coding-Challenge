@@ -2,7 +2,7 @@
 
 This is a small application that can be used to manage casework as tasks.
 It is currently only set up so that it will work locally.
-It has only been tested using a Mac, so usage in Windows or Linux may be buggy.
+It has also only been tested using a Mac, so usage in Windows or Linux may be buggy.
 
 This application allows the creation of task tickets.
 Each ticket will contain a unique ID, a title, a status (unstarted, in progress and completed) and a deadline (YYYY-MM-DD).
